@@ -1,0 +1,11 @@
+.student {
+	width: 100%;
+	display: inline-flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.checkbox {
+	height: 24px;
+	width: 24px;
+}
