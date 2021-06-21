@@ -32,3 +32,15 @@ h2 {
 	align-items: center;
 	justify-content: start;
 }
+
+.student_tab {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	color: white !important;
+	background-color: #6200ee !important;
+}
+
+.MuiSvgIcon-root {
+	fill: white !important;
+}
